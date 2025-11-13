@@ -17,6 +17,11 @@ Work in progress
 ## Visualizing the Data
 
 Work in progress
+
+### Graphs
+
+Work in progress
+
 ### Plots
 
 Work in progress
