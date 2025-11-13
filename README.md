@@ -1,6 +1,8 @@
 # CPD Department Vehicle Crash Data from Jan 1st 2022 to Aug 28th 2025
 
-[Image of map]
+[<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/0a532f4b-f3ed-496e-9737-ee7058ce1d8d" />](https://deltaract.pages.dev/interactive-maps/chicago-cpd-crash-map)
+
+*Figure 1: Interactive map of CPD Department Vehicle Crash Data (Jan 1st 2022 to Aug 28th 2025)*
 
 ## Summary
 
