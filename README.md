@@ -4,7 +4,7 @@
 
 ## Summary
 
-Work in progress
+This GitHub repository provides Chicago Police Department (CPD) police vehicle crash data from January 1st, 2022 to August 28th, 2025. The data comes from CPD through a Freedom of Information Act (FOIA) request.
 
 ## Table of Contents
 
