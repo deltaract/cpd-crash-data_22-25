@@ -32,6 +32,8 @@ Work in progress
 
 ### Static Maps
 
+work in progress
+
 ### Interactive Map
 
 Work in progress
